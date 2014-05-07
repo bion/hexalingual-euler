@@ -10,5 +10,6 @@ bench {
   };
 
   postln("The answer is: " ++ sum);
-  0.exit;
-}
+};
+
+0.exit;
