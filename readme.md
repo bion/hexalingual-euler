@@ -11,6 +11,7 @@ All times given in seconds
 ### Problem Three
 * Ruby: 0.030 from command line
 * C: 0.001 from command line
+* Javascript: 0.066
 * SuperCollider: 0.90 from command line, 0.0002 not including
   interpreter start/stop
 
@@ -20,6 +21,7 @@ a float.
 ### Problem Two
 * Ruby: 0.037 from command line
 * C: 0.001 from command line
+* Javascript: 0.62 from command line
 * SuperCollider: 0.89 from command line, 0.0003 not including
   interpreter start/stop
 
