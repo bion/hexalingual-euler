@@ -1,4 +1,4 @@
-# ~~Trilingual~~ Quadrilingual Project Euler Solutions
+# ~~Trilingual~~ Quadrilingual Project Euler
 
 Using C, Ruby, Javascript, and SuperCollider*
 
