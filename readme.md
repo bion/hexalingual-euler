@@ -8,6 +8,15 @@ Using C, Ruby, and SuperCollider*
 
 All times given in seconds
 
+### Problem Three
+* Ruby: 0.030 from command line
+* C: 0.001 from command line
+* SuperCollider: 0.90 from command line, 0.0002 not including
+  interpreter start/stop
+
+Note: SuperCollider can't represent integers over 32 bits, had to use
+a float.
+
 ### Problem Two
 * Ruby: 0.037 from command line
 * C: 0.001 from command line
@@ -17,5 +26,5 @@ All times given in seconds
 ### Problem One
 * Ruby: 0.049 from command line
 * C: 0.001 from command line
-* SuperCollider: 1.012 from command line, 0.0004 not including
+* SuperCollider: 1.01 from command line, 0.0004 not including
   interpreter start/stop
