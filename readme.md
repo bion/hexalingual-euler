@@ -18,7 +18,7 @@ All times given in seconds
 ### Problem Three
 * Ruby: 0.030 from command line
 * C: 0.001 from command line
-* Javascript: 0.066
+* Javascript: 0.066 from command line
 * SuperCollider: 0.90 from command line, 0.0002 not including
   interpreter start/stop
 
