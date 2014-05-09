@@ -1,6 +1,6 @@
-# Trilingual Project Euler Solutions
+# ~~~Trilingual~~~ Quatro-lingual Project Euler Solutions
 
-Using C, Ruby, and SuperCollider*
+Using C, Ruby, Javascript, and SuperCollider*
 
 \* for the lulz
 
@@ -26,5 +26,6 @@ a float.
 ### Problem One
 * Ruby: 0.049 from command line
 * C: 0.001 from command line
+* Javascript: 0.056 from command line
 * SuperCollider: 1.01 from command line, 0.0004 not including
   interpreter start/stop
