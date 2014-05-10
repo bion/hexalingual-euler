@@ -3,13 +3,17 @@ package main
 
 import (
     "fmt"
-    "gitub.com/professorq/trilingual-euler/euler_1/threefive"
+    "./threefive"
     "os"
     "strconv"
 )
+    // "github.com/professorq/trilingual-euler/euler_1/threefive"
 
-func main{
-    ceiling := strconv.Atoi(os.Args[1])
-    sum := threefive.SumLess(ceiling)
-    fmt.Print("%v", sum)
+func main() {
+    ceiling, err := strconv.Atoi(os.Args[1])
+    if err != nil {
+        panic(err)
+    }
+    sum := ThreeFive.SumLess(ceiling)
+    fmt.Println(sum)
 }
