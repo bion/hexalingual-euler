@@ -31,6 +31,7 @@ a float.
 * Javascript: 0.62 from command line
 * SuperCollider: 0.89 from command line, 0.0003 not including
   interpreter start/stop
+* Go: 205 ns/op
 
 ### Problem One
 * Ruby: 0.049 from command line
@@ -42,3 +43,4 @@ a float.
 BenchmarkThreeFiveOneK	 1000000	      1580 ns/op
 BenchmarkThreeFiveTenK	  200000	      9798 ns/op
 BenchmarkThreeFiveMill	    2000	    902160 ns/op
+
