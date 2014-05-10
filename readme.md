@@ -38,3 +38,7 @@ a float.
 * Javascript: 0.056 from command line
 * SuperCollider: 1.01 from command line, 0.0004 not including
   interpreter start/stop
+* Go:
+BenchmarkThreeFiveOneK	 1000000	      1580 ns/op
+BenchmarkThreeFiveTenK	  200000	      9798 ns/op
+BenchmarkThreeFiveMill	    2000	    902160 ns/op
