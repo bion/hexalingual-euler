@@ -21,6 +21,7 @@ All times given in seconds
 * Javascript: 0.066 from command line
 * SuperCollider: 0.90 from command line, 0.0002 not including
   interpreter start/stop
+* Go: 0.0005320 
 
 Note: SuperCollider can't represent integers over 32 bits, had to use
 a float.
@@ -31,7 +32,7 @@ a float.
 * Javascript: 0.62 from command line
 * SuperCollider: 0.89 from command line, 0.0003 not including
   interpreter start/stop
-* Go: 205 ns/op
+* Go: .000205 seconds within Go benchmark suite
 
 ### Problem One
 * Ruby: 0.049 from command line
