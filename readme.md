@@ -14,6 +14,8 @@ All times given in seconds
 * Javascript: 0.345 from command line
 * SuperCollider: 2.193 from command line, 1.32 not including
   interpreter start/stop
+* Go: 0.0003 seconds - 0.004538 from command line
+    (0.29 compile + run from command line)
 
 ### Problem Three
 * Ruby: 0.030 from command line
