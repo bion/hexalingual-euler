@@ -8,6 +8,13 @@ Using C, Ruby, Javascript, and SuperCollider*
 
 All times given in seconds
 
+### Problem Six
+* Ruby: 0.025 from command line
+* C: 0.001 from command line
+* Javascript: 0.046 from command line
+* SuperCollider: 0.991 from command line, 0.0004 not including
+  interpreter start/stop
+
 ### Problem Five
 * Ruby: 4.605 from command line
 * C: 0.211 from command line
