@@ -1,8 +1,8 @@
 # ~~Trilingual~~ Hexalingual Project Euler Solutions
 
-Using C, Ruby, Javascript, and SuperCollider*
+Using C, Clojure, Go, Ruby, Javascript, and *SuperCollider
 
-\* for the lulz
+*[sclang](http://supercollider.github.io/), that is
 
 ## Benchmarks
 
