@@ -1,4 +1,4 @@
-# ~~Trilingual~~ PENTALINGUAL Project Euler
+# ~~Trilingual~~ Hexalingual Project Euler Solutions
 
 Using C, Ruby, Javascript, and SuperCollider*
 
@@ -64,7 +64,6 @@ a float.
 * SuperCollider: 1.01 from command line, 0.0004 not including
   interpreter start/stop
 * Go:
-BenchmarkThreeFiveOneK	 1000000	      1580 ns/op
-BenchmarkThreeFiveTenK	  200000	      9798 ns/op
-BenchmarkThreeFiveMill	    2000	    902160 ns/op
-
+BenchmarkThreeFiveOneK   1000000          1580 ns/op
+BenchmarkThreeFiveTenK    200000          9798 ns/op
+BenchmarkThreeFiveMill      2000        902160 ns/op
