@@ -10,7 +10,7 @@ All times given in seconds
 
 ### Problem Six
 * Ruby: 0.025 from command line
-* C: 0.001 from command line
+* C: <0.001 from command line
 * Javascript: 0.046 from command line
 * SuperCollider: 0.991 from command line, 0.0004 not including
   interpreter start/stop
@@ -33,7 +33,7 @@ All times given in seconds
 
 ### Problem Three
 * Ruby: 0.030 from command line
-* C: 0.001 from command line
+* C: <0.001 from command line
 * Javascript: 0.066 from command line
 * SuperCollider: 0.90 from command line, 0.0002 not including
   interpreter start/stop
@@ -44,15 +44,17 @@ a float.
 
 ### Problem Two
 * Ruby: 0.037 from command line
-* C: 0.001 from command line
+* C: <0.001 from command line
+* Clojure: <0.001 from REPL
 * Javascript: 0.62 from command line
-* SuperCollider: 0.89 from command line, 0.0003 not including
+* SuperCollider: 0.89 from command line, 0.003 not including
   interpreter start/stop
 * Go: .000000205 seconds within Go benchmark suite
 
 ### Problem One
 * Ruby: 0.049 from command line
-* C: 0.001 from command line
+* C: <0.001 from command line
+* Clojure: <0.001 from REPL
 * Javascript: 0.056 from command line
 * SuperCollider: 1.01 from command line, 0.0004 not including
   interpreter start/stop

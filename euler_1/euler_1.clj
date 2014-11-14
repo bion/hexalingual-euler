@@ -31,6 +31,6 @@
         ]
     (reduce + distinct-multiples)))
 
-(println "The answer is: " (sum-three-fives-multiples-below 1000))
-(println "The answer is: " (sum-three-fives-multiples-below2 1000))
-(println "The answer is: " (sum-three-fives-multiples-below3 1000))
+(time (println "The answer is: " (sum-three-fives-multiples-below 1000)))
+(time (println "The answer is: " (sum-three-fives-multiples-below2 1000)))
+(time (println "The answer is: " (sum-three-fives-multiples-below3 1000)))
