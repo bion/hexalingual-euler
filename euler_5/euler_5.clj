@@ -1,6 +1,4 @@
 (defn lcm [a b]
-  (println "a:" a)
-  (println "b:" b)
   (/ (* a b)
      (loop [x a
             y b]
