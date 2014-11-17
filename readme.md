@@ -18,6 +18,7 @@ All times given in seconds
 ### Problem Five
 * Ruby: 4.605 from command line
 * C: 0.211 from command line
+* Clojure: 0.003 from REPL
 * Javascript: 0.345 from command line
 * SuperCollider: 35.182 from command line, 34.189 not including
   interpreter start/stop
